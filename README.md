@@ -1,4 +1,6 @@
-# Library-Management-System
-This project is a Library Management System developed as part of a university course project. It is designed to manage basic library operations such as adding, searching, borrowing, and returning books.
-The system is implemented using MIPS Assembly Language and runs on the MARS simulator. It focuses on core functionality with a simple text-based interface to demonstrate low-level programming concepts and logical flow.
-This project was developed for learning purposes and academic use.
+# Library-Management-System-MIPS-Assembly-Project
+The LMS is divided into two main components: the admin module and the user module. Admins
+are provided with tools to manage the library's inventory, including adding, viewing, updating, and
+removing books. Users, on the other hand, can view available books, borrow and return them, and
+search the books through their Id. The system is built with a simple text-based interface, ensuring
+ease of use while focusing on core functionalities.
